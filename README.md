@@ -3,7 +3,7 @@
 
 # 🌍 Project Overview
 In Week 4, we explored different types of high-resolution georeferenced images that are essential in the field of drone-based remote sensing and GIS analysis. These advanced image types—unlike regular images—are geo-tagged or geo-referenced, meaning they contain precise location data. This geospatial information allows for accurate identification of resources, terrain modeling, and integration into mapping software like QGIS.
-
+![plantation-22-images-odm_orthophoto_PNG-min](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-4/blob/269da9c24b96162d187c12183200b3e5379ec690/Screenshots/plantation-22-images-odm_orthophoto_PNG-min.png)
 Understanding these image formats is critical for the development of Digital Elevation Models (DEMs) and Digital Terrain Models (DTMs), which are foundational in resource mapping, infrastructure planning, environmental monitoring, and machine learning applications.
 
 # 🎯 Objective
@@ -33,6 +33,8 @@ Understanding these image formats is critical for the development of Digital Ele
 - Prepared terrain layers for future integration into ML pipelines.
 
 # 🖥️ Screenshot
+-(An Oorthophoto of a Grass Land)
+  -![plantation-22-images-odm_orthophoto_PNG-min](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-4/blob/269da9c24b96162d187c12183200b3e5379ec690/Screenshots/plantation-22-images-odm_orthophoto_PNG-min.png)
 
 # 📝 Requirements
 - ⬇️ Install QGIS: [official website](https://qgis.org/download/) (latest version).
