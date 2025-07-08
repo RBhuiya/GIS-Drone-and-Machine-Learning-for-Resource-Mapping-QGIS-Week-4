@@ -42,7 +42,7 @@ Understanding these image formats is critical for the development of Digital Ele
 - Raster & elevation processing plugins
 - Understanding of terrain modeling concepts and metadata reading
 
-✅ Benefits of This Analysis
+# ✅ Benefits of This Analysis
 - Helps create accurate Digital Terrain Models (DTMs) for terrain-based analysis.
 - Provides georeferenced data, enabling precise location-based resource identification.
 - Supports change detection through time-based Dynamic Ortho imagery.
